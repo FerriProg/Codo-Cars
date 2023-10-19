@@ -5,8 +5,8 @@ fetch(
     headers: {
       //   Authorization: 'Bearer 07029682-c76b-4d5d-9f65-348cd20aa5a8',
       'x-api-key': '07029682-c76b-4d5d-9f65-348cd20aa5a8',
-      //   'Content-Type': 'application/json',
-      //   'Access-Control-Allow-Origin': 'http://localhost:5500',
+      'Content-Type': 'application/json',
+      'Access-Control-Allow-Origin': 'https://ferriprog.github.io/Codo-Cars/',
     },
   }
 )
